@@ -1,0 +1,10 @@
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\bin\Debug\rssv_lv1.exe.config
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\bin\Debug\rssv_lv1.exe
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\bin\Debug\rssv_lv1.pdb
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.csprojAssemblyReference.cache
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.Form1.resources
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.Properties.Resources.resources
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.csproj.GenerateResource.cache
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.csproj.CoreCompileInputs.cache
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.exe
+C:\Users\lbudak\source\repos\rssv_lv1_1\rssv_lv1\obj\Debug\rssv_lv1.pdb
